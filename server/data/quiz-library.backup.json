@@ -1,0 +1,645 @@
+{
+  "version": 2,
+  "categories": [
+    {
+      "id": "c39273ab-0d12-481b-b906-c0ef4bd9de2b",
+      "name": "Storia&Geografia",
+      "description": "",
+      "color": "#EC4899",
+      "createdAt": 1794328900136,
+      "updatedAt": 1794414589343,
+      "questions": [
+        {
+          "id": "da5e3bc9-74ee-4a7e-b372-524d86807dee",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Quanto è durata la guerra più corta della storia, combattuta nel 1896 tra il Regno Unito e il Sultanato di Zanzibar?",
+          "options": [
+            "2 giorni",
+            "4 ore",
+            "1 settimana",
+            "38 minuti"
+          ],
+          "correctOptionIndex": 3,
+          "hostNote": "Risposta esatta: A (38 minuti). Curiosità da raccontare: Gli inglesi avevano navi da guerra e cannoni, mentre il sultano si difendeva con il suo yacht reale e qualche vecchia artiglieria. Dopo meno di 40 minuti, il palazzo del sultano fu distrutto e la guerra finì.",
+          "createdAt": 1794413090812,
+          "updatedAt": 1794413112062
+        },
+        {
+          "id": "750af0a3-68cc-4bc4-ba14-e9d891da048e",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nel 1932, l'esercito australiano dichiarò ufficialmente \"guerra\" a quale animale, perdendola clamorosamente?",
+          "options": [
+            "Koala",
+            "Dingo",
+            "Emù",
+            "Piccioni"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "È passata alla storia come \"La grande guerra degli emù\". Questi enormi uccelli stavano devastando le coltivazioni, così il governo inviò soldati armati di mitragliatrici. Gli emù, però, si disperdevano velocemente ed erano difficilissimi da colpire, costringendo l'esercito alla ritirata.",
+          "createdAt": 1794413265450,
+          "updatedAt": 1794413458055
+        },
+        {
+          "id": "7c611dd0-5fd8-483f-b20a-655457fcaccf",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Perché nei suoi ritratti più famosi, Napoleone Bonaparte teneva quasi sempre la mano destra infilata nel gilet?",
+          "options": [
+            "Nascondeva una piccola pistola",
+            "Aveva una malformazione alle dita",
+            "Era una posa di moda per sembrare distinti",
+            "Soffriva di forti dolori allo stomaco"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "Molti credono che si toccasse lo stomaco per un'ulcera, ma in realtà, nei manuali di galateo del XVIII secolo, infilare la mano nel gilet era considerato l'atteggiamento tipico del gentiluomo calmo, saggio e leader.",
+          "createdAt": 1794413426429,
+          "updatedAt": 1794413473504
+        },
+        {
+          "id": "14784ea3-38f1-4254-b1a8-5191ebcb7d92",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Qual è l'unico Paese al mondo ad avere una bandiera nazionale che non è né un quadrato né un rettangolo?",
+          "options": [
+            "Nepal",
+            "Buthan",
+            "Svizzera",
+            "Sri Lanka"
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "La bandiera del Nepal è formata da due triangoli sovrapposti (che rappresentano le montagne dell'Himalaya e le due religioni principali, Induismo e Buddismo).",
+          "createdAt": 1794413555669,
+          "updatedAt": 1794413555669
+        },
+        {
+          "id": "98ca4bd1-8143-4512-a54c-8c9b18525642",
+          "type": "MULTIPLE_CHOICE",
+          "text": "n quale di queste città ti basterebbe attraversare un ponte per cambiare continente?",
+          "options": [
+            "Il Cairo",
+            "Mosca",
+            "Ankara",
+            "Instanbul"
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "Istanbul è l'unica grande metropoli al mondo divisa su due continenti: Europa e Asia, separate dallo stretto del Bosforo.",
+          "createdAt": 1794413683333,
+          "updatedAt": 1794413683333
+        },
+        {
+          "id": "6abf292c-1d8b-498c-ba62-0066e0336553",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nel piccolo centro abitato di Longyearbyen, situato nelle remote isole norvegesi delle Svalbard, c'è una legge stranissima. Quale?",
+          "options": [
+            "È vietato possedere gatti",
+            "È severamente \"proibito morire\"",
+            "È illegale uscire di casa senza un'arma",
+            "Tutte le precedenti"
+          ],
+          "correctOptionIndex": 3,
+          "hostNote": "Essendo nel circolo polare artico, il terreno è permafrost, quindi i corpi non si decompongono (infatti i malati gravi vengono portati sulla terraferma). Inoltre, a causa degli orsi polari, è obbligatorio girare armati per difendersi. E i gatti? Sono vietati per proteggere la rara fauna di uccelli l",
+          "createdAt": 1794413880476,
+          "updatedAt": 1794413880476
+        },
+        {
+          "id": "5c58df39-f8cb-4368-b417-187f29b2b853",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Quale comunissimo prodotto agricolo, onnipresente nelle nostre insalate, è stato sviluppato commercialmente e perfezionato nella sua forma attuale da scienziati in Israele nel 1973?",
+          "options": [
+            "Il basilico a foglia larga",
+            "Il pomodorino ciliegino",
+            "Il peperone giallo",
+            "Il cetriolo senza semi"
+          ],
+          "correctOptionIndex": 1,
+          "hostNote": "nche se il pomodoro è originario del Sud America, il classico pomodorino ciliegino \"commerciale\" (quello dolce, a grappolo e che dura a lungo sugli scaffali) è stato inventato da due professori della Facoltà di Agricoltura in Israele, che cercavano una variante che maturasse lentamente nei climi torridi.",
+          "createdAt": 1794414098720,
+          "updatedAt": 1794414098720
+        },
+        {
+          "id": "598d09ae-48cc-492f-942d-0d7249f1ed1b",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Se sei in viaggio nel sud-est della Turchia, potresti tranquillamente alloggiare e farti un giro in una città e provincia che ha lo stesso identico nome di...",
+          "options": [
+            "Un Pokémon",
+            "Un famoso supereroe",
+            "Un piatto di pasta",
+            "Un cattivo della Disney"
+          ],
+          "correctOptionIndex": 1,
+          "hostNote": "In Turchia esiste una città che si chiama letteralmente Batman (prende il nome dall'omonimo fiume). Qualche anno fa, un ex sindaco della città minacciò persino di fare causa al regista Christopher Nolan per aver sfruttato il nome \"Batman\" nei suoi film senza chiedere il permesso!",
+          "createdAt": 1794414225744,
+          "updatedAt": 1794414225744
+        },
+        {
+          "id": "32dd15fe-4d5c-4103-a3fc-ec0802158751",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nell'897 d.C. si tenne uno dei processi giudiziari più macabri e assurdi della Storia della Chiesa, noto come il \"Sinodo del cadavere\". Chi fu l'imputato?",
+          "options": [
+            "Un cavallo nominato senatore",
+            "Una statua di marmo",
+            "Un Papa morto",
+            "Un gatto nero"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "Papa Stefano VI odiava così tanto il suo predecessore, Papa Formoso, che lo fece riesumare. Il cadavere fu vestito con gli abiti sacri, seduto su un trono e interrogato davanti a un tribunale (con un diacono nascosto dietro che rispondeva per lui).",
+          "createdAt": 1794414358501,
+          "updatedAt": 1794414358501
+        },
+        {
+          "id": "192ee7b1-c24c-4f67-9987-09f9fa97cfde",
+          "type": "MULTIPLE_CHOICE",
+          "text": "SPECIALE: Chi tra questi personaggi politici ha più aura?\n(se indovini perdi un punto)",
+          "options": [
+            "Giulio Cesare",
+            "Carlo Magno",
+            "Winston Churchill",
+            "Gengis Khan"
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "a giovane, Cesare fu rapito dai pirati. Quando gli dissero che avrebbero chiesto 20 talenti d'argento per il suo riscatto, lui si mise a ridere in faccia dicendo che non sapevano chi avessero rapito, e li costrinse ad alzarlo a 50 talenti! Durante la prigionia li trattava come suoi dipendenti, li zittiva quando voleva dormire e gli prometteva scherzando che, una volta libero, sarebbe tornato a crocifiggerli tutti. I pirati ridevano, ma appena fu pagato il riscatto, Cesare armò una flotta, li rintracciò e mantenne la promessa!",
+          "createdAt": 1794414589343,
+          "updatedAt": 1794414589343
+        }
+      ]
+    },
+    {
+      "id": "311843e3-d039-4832-a51c-9e3cc30c3342",
+      "name": "Varietà",
+      "description": "",
+      "color": "#F97316",
+      "createdAt": 1794328922929,
+      "updatedAt": 1794847132159,
+      "questions": [
+        {
+          "id": "8e14ac53-5d6f-4c99-a171-d29a8a8da21b",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Il geniale videogioco di ruolo \"Undertale\", amato per la sua particolarissima trama, vanta un primato a dir poco surreale legato nientemeno che al Vaticano. Quale?",
+          "options": [
+            "La sua iconica colonna sonora è stata suonata dalla banda della Guardia Svizzera",
+            "l creatore del gioco ha nascosto nel codice una preghiera in latino",
+            "Un prete ha usato le musiche del gioco per la messa di Natale",
+            "Una copia del gioco è stata donata ufficialmente a Papa Francesco"
+          ],
+          "correctOptionIndex": 3,
+          "hostNote": "Nel 2016, il celebre youtuber americano MatPat fu invitato in Vaticano per un summit internazionale sui media digitali. Quando arrivò il momento di consegnare un dono al Pontefice, MatPat decise di regalargli proprio una copia di Undertale. Il motivo? È uno dei rarissimi giochi di ruolo in cui si può finire l'intera avventura usando solo l'empatia, risparmiando i nemici senza mai usare la violenza.",
+          "createdAt": 1794417395999,
+          "updatedAt": 1794417395999
+        },
+        {
+          "id": "e7770295-0064-4ce5-9d32-3c138e03cf8b",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Quando In Evangelion l'Unità Eva-01 va in \"Berserk\" (perde il controllo e si muove di vita propria), emette dei ruggiti mostruosi, animaleschi e spaventosi. Come sono stati realizzati, nella realtà, quegli inquietanti versi nella traccia audio originale giapponese?",
+          "options": [
+            "A) Mixando il barrito di un elefante e lo stridio di lamiere metalliche contorte",
+            "Usando la voce del regista Hideaki Anno, fatta urlare dentro un tubo di metallo",
+            "Facendo urlare a squarciagola la doppiatrice di Rei Ayanami",
+            "Modificando al sintetizzatore il suono di una turbina di un aereo di linea"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "Chi conosce bene la serie sa che all'interno dell'Eva-01 risiede l'anima di Yui Ikari, la madre del protagonista Shinji. Per rendere il robot in Berserk non solo un mostro, ma una \"madre protettiva e furiosa\", i tecnici del suono non usarono versi di animali o campionamenti sintetici. Chiesero invece a Megumi Hayashibara (la leggendaria doppiatrice che doppia sia Rei Ayanami che la stessa Yui Ikari) di spaccarsi letteralmente le corde vocali urlando al microfono, per poi distorcerne la voce.",
+          "createdAt": 1794417866283,
+          "updatedAt": 1794417866283
+        },
+        {
+          "id": "a4c5e296-23b7-44bf-8cc8-56f9b86e66e5",
+          "type": "MULTIPLE_CHOICE",
+          "text": "In \"Dragon Ball\", la trasformazione in Super Saiyan è famosissima in tutto il mondo, soprattutto perché i capelli di Goku diventano dritti e biondi. Ma qual è il VERO, banalissimo e praticissimo motivo per cui l'autore Akira Toriyama decise di far cambiare il colore dei capelli da neri a biondi?",
+          "options": [
+            "oleva omaggiare i lottatori di wrestling americani degli anni '80",
+            "Voleva far risparmiare tempo e fatica al suo assistente disegnatore",
+            "Era un riferimento alle gang di teppisti giapponesi che si tingevano i capelli",
+            "Aveva rovesciato per sbaglio la boccetta dell'inchiostro nero"
+          ],
+          "correctOptionIndex": 1,
+          "hostNote": "Nei manga in bianco e nero, i capelli di Goku andavano colorati campitura per campitura usando litri di inchiostro nero, un lavoro noiosissimo che portava via un sacco di tempo. L'assistente di Toriyama se ne lamentava di continuo. Facendoli diventare \"biondi\", sulla carta stampata i capelli diventavano semplicemente bianchi, permettendo di lasciarli vuoti e risparmiando ore di lavoro ogni settimana.",
+          "createdAt": 1794504668036,
+          "updatedAt": 1794504668036
+        },
+        {
+          "id": "86f5fb54-a37b-4c36-8079-668fb07f66eb",
+          "type": "MULTIPLE_CHOICE",
+          "text": "n Svizzera, che è un Paese molto attento ai diritti e al benessere, dal 2008 è entrata in vigore una rigidissima legge federale che rende assolutamente illegale una pratica considerata una vera e propria \"crudeltà\". Di cosa si tratta?",
+          "options": [
+            "ortare a spasso un cane sulla neve senza fargli indossare apposite scarpette",
+            "Dare da mangiare la cioccolata svizzera agli orsi negli zoo",
+            "Possedere un solo porcellino d'India alla volta",
+            "enere un pesce rosso in una boccia di vetro rotonda"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "I porcellini d'India sono animali estremamente socievoli. Se lasciati da soli, soffrono così tanto di solitudine che possono cadere in depressione e lasciarsi morire. La legge svizzera impone quindi di averne sempre almeno due! Ma cosa succede se uno dei due muore di vecchiaia e ne rimane di nuovo uno solo? Nessun problema: in Svizzera esistono delle vere e proprie agenzie di \"noleggio di porcellini d'India\", che ti affittano un compagno temporaneo per non far sentire solo quello rimasto!",
+          "createdAt": 1794504858462,
+          "updatedAt": 1794504858462
+        },
+        {
+          "id": "fae1b038-21ee-4b42-83de-c8b26aaa46d6",
+          "type": "MULTIPLE_CHOICE",
+          "text": "o scherzo più celebre e immortale di internet è senza dubbio il \"Rickrolling\", ovvero ingannare qualcuno facendogli cliccare un link che in realtà rimanda al video musicale di \"Never Gonna Give You Up\" di Rick Astley. Ma questo scherzo diabolico nacque nel 2007 per colpire milioni di persone che cercavano disperatamente il trailer appena uscito di quale famosissimo videogioco?",
+          "options": [
+            "World of Warcraft: Wrath of the Lich King",
+            "Halo 3",
+            "Super Mario Galaxy",
+            "Grand Theft Auto IV"
+          ],
+          "correctOptionIndex": 3,
+          "hostNote": "el maggio del 2007, la Rockstar Games rilasciò il primissimo, attesissimo trailer di GTA IV. L'hype era così alto e il traffico fu così spaventoso che il loro sito ufficiale andò in crash totale dopo pochi minuti. Sul forum 4chan (culla di quasi tutti i meme storici), un utente scrisse di aver caricato il video su un link alternativo funzionante. Milioni di persone cliccarono, convinte di vedere sparatorie e inseguimenti della malavita, e si ritrovarono invece un cantante anni '80 con il ciuffo rosso che ballava muovendo le spalle.",
+          "createdAt": 1794505020227,
+          "updatedAt": 1794505020227
+        },
+        {
+          "id": "ad94d31d-a999-4a08-8d33-e40f7e315625",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nel 2013, a Londra, fu inaugurato un costosissimo grattacielo di 37 piani noto come \"Walkie-Talkie\" per via della sua particolare forma curva. Ma gli ingegneri non avevano calcolato un dettaglio fondamentale, causando un vero e proprio disastro nel quartiere. Cosa faceva di preciso questo palazzo?",
+          "options": [
+            "Rifletteva i raggi solari come una lente d'ingrandimento, sciogliendo le auto parcheggiate",
+            "Creava un campo elettromagnetico che faceva impazzire i semafori",
+            "Deviava il vento creando piccoli tornado che sradicavano gli alberi",
+            "Amplificava il suono del traffico fino a far tremare le fondamenta delle case vicine"
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "Il palazzo aveva una facciata concava interamente ricoperta di vetri a specchio. In fase di progettazione, nessuno si accorse che questa forma lo trasformava in un'immensa lente d'ingrandimento solare! In estate, l'edificio concentrava un raggio di luce su una strada sottostante, portando la temperatura a sfiorare i 100 gradi. I giornalisti andavano per strada a friggere le uova sull'asfalto, i negozianti vedevano la vernice delle insegne fare le bolle e, l'episodio più clamoroso, il \"raggio della morte\" sciolse letteralmente la carrozzeria e lo specchietto di una lussuosa Jaguar parcheggiata lì sotto. Per risolvere il disastro, dovettero applicare delle enormi reti parasole su tutte le finestre del palazzo!",
+          "createdAt": 1794505164222,
+          "updatedAt": 1794505164222
+        },
+        {
+          "id": "652f6a9b-4575-47d2-acde-9eec1dc64d8f",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nei primi anni 2000, l'arrivo della fotografia digitale distrusse il mercato dei rullini, portando il colosso storico Kodak alla bancarotta. La sua eterna rivale giapponese, Fujifilm, riuscì invece a salvarsi in modo del tutto inaspettato: prese i suoi chimici esperti di pellicole fotografiche e li mise a produrre... cosa?",
+          "options": [
+            "Pannelli solari ad altissima efficienza",
+            "Pneumatici per auto da corsa",
+            "Schermi a cristalli liquidi per i primi Apple iPod",
+            "Creme cosmetiche anti-invecchiamento"
+          ],
+          "correctOptionIndex": 3,
+          "hostNote": "La pellicola fotografica tradizionale è composta per circa la metà da collagene (lo stesso che abbiamo nel corpo umano) e il nemico numero uno delle foto stampate è l'ossidazione (esattamente come per l'invecchiamento della nostra pelle). Fujifilm realizzò che gli studi decennali fatti su collagene e antiossidanti per non far scolorire le foto nel tempo erano perfetti per il viso umano! Lanciarono così la linea di cosmetici \"Astalift\", che divenne un successo planetario salvando l'azienda dal fallimento.",
+          "createdAt": 1794505358786,
+          "updatedAt": 1794505358786
+        },
+        {
+          "id": "f69b1b59-0f9f-4b05-8c9f-fc6f54c7bbc9",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nel 2009, il governo della Tasmania (in Australia) ha dovuto risolvere un mistero che andava avanti da anni. Le loro piantagioni legali di papaveri da oppio (coltivati per produrre farmaci come la morfina) venivano regolarmente invase dai wallaby, dei piccoli canguri locali. Cosa succedeva esattamente in questi campi?",
+          "options": [
+            "I wallaby si sballavano e saltellavano in tondo creando dei misteriosi \"cerchi nel grano\"",
+            ") I wallaby diventavano iper-aggressivi e sfidavano i contadini a pugilato",
+            "I wallaby si convincevano di poter volare e si lanciavano dagli alberi",
+            "I wallaby si addormentavano in piedi, bloccando il passaggio dei trattori"
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "Questa cosa finì addirittura in un'audizione del Parlamento australiano! Il procuratore generale della Tasmania dovette dichiarare ufficialmente che il mistero dei famosi cerchi nei campi (che molti complottisti locali attribuivano agli UFO o agli alieni) era stato risolto. I piccoli canguri entravano di notte, mangiavano le teste dei papaveri da oppio, si prendevano una \"botta\" clamorosa e iniziavano a saltare in tondo completamente disorientati e strafatti, calpestando le piante in cerchi perfetti prima di crollare a dormire!",
+          "createdAt": 1794583320631,
+          "updatedAt": 1794583320631
+        },
+        {
+          "id": "1aa2d257-b8e2-447c-8f34-f1cae0d43eb8",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Oggi il Litio è uno dei più noti e potenti psicofarmaci al mondo, utilizzato in psichiatria come stabilizzatore dell'umore (soprattutto per trattare il disturbo bipolare). Ma dal 1929 fino al 1948, il citrato di litio veniva venduto liberamente al banco come ingrediente segreto per \"sollevare il morale\" all'interno di quale famosissima bevanda?",
+          "options": [
+            "La Dr Pepper",
+            "L'acqua tonica Schweppes",
+            "La 7Up",
+            "La Coca-Cola"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "Curiosità da raccontare: Tutti sanno che la ricetta originale della Coca-Cola conteneva vere foglie di coca, ma in pochi sanno il segreto della sua rivale! Quando fu inventata nel 1929 (poco prima della Grande Depressione), la 7Up si chiamava con l'impronunciabile nome di \"Bib-Label Lithiated Lemon-Lime Soda\". Il suo creatore ci aveva letteralmente buttato dentro il citrato di litio (lo psicofarmaco) e la vendeva come cura per i postumi della sbornia e per dare un \"calmo e luminoso buonumore\" ai consumatori. Il litio fu tolto dalla ricetta solo nel 1948, quando il governo vietò di mettere psicofarmaci nelle bibite gassate!",
+          "createdAt": 1794583439721,
+          "updatedAt": 1794583439721
+        },
+        {
+          "id": "63a58e05-6ebf-4caf-bd27-f1315d42c864",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Quale tra questi personaggi è nato lo stesso giorno di Andrea Menga",
+          "options": [
+            "Josh O'Connor",
+            "Emily Blunt",
+            "Zohran Mamdani",
+            "Papa Leone XIV"
+          ],
+          "correctOptionIndex": 1,
+          "createdAt": 1794583717370,
+          "updatedAt": 1794583717370
+        },
+        {
+          "id": "22762f41-58bd-4956-bc33-2aba5e5fbca4",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Immaginate di leggere l'etichetta di un prodotto che elenca esattamente questa composizione chimica: un'alta percentuale di monossido di diidrogeno, mescolato ad acido 2-idrossibutandioico, a una dose di (5R)-5-[(1S)-1,2-diidrossietil]-3,4-diidrossifuran-2(5H)-one, all'estere 3-metilbutil etanoato e, infine, a un pizzico di (2R,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-diidrossi-2,5-bis(idrossimetil)ossolan-2-il]ossi-6-(idrossimetil)ossan-3,4,5-triolo. Sembra la ricetta per una scoria radioattiva o per un veleno letale, ma in realtà cosa state per mangiare?",
+          "options": [
+            "La Banana",
+            "La pasta al sugo",
+            "Il cocomero",
+            "La liquirizia"
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "uella lista spaventosa e impronunciabile non è altro che la composizione naturale di una banalissima banana. Nello specifico: il \"monossido di diidrogeno\" è la comunissima acqua; l'acido 2-idrossibutandioico è l'acido malico (che dà la nota acidula alla frutta); il lunghissimo composto con il \"furan\" è la semplice Vitamina C; il \"3-metilbutil etanoato\" è la molecola che dà alla banana il suo inconfondibile profumo; e quell'ultima, mostruosa formula chilometrica con tutte quelle parentesi e numeri? È il Saccarosio, ovvero il normalissimo zucchero! Se al supermercato usassero i nomi scientifici, nessuno comprerebbe più niente!",
+          "createdAt": 1794847132159,
+          "updatedAt": 1794847132159
+        }
+      ]
+    },
+    {
+      "id": "88a20a3f-63fb-446e-9c69-cc03b02f7517",
+      "name": "Musica",
+      "description": "",
+      "color": "#10B981",
+      "createdAt": 1794328932735,
+      "updatedAt": 1794847355688,
+      "questions": [
+        {
+          "id": "40c55e80-7ac6-4eaf-a9fd-3bb06fe4363b",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nel 1772, quale geniale (e passivo-aggressivo) stratagemma usò il compositore Franz Joseph Haydn nella sua \"Sinfonia n. 45\" per far capire al principe che i musicisti erano stanchi e volevano andare in ferie?",
+          "options": [
+            "Fece spegnere le candele e uscire i musicisti uno ad uno",
+            "Inserì un enorme sbadiglio corale nel ritornello",
+            "Fece suonare l'ultimo quarto d'ora solo con i triangoli",
+            "Sostituì i violini con delle pentole"
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "È passata alla storia come la \"Sinfonia degli addii\". Il principe Nicola I Esterházy stava trattenendo l'orchestra nel suo palazzo estivo molto più a lungo del previsto. Nel movimento finale, Haydn scrisse lo spartito in modo che, man mano che finivano la loro parte, i musicisti spegnessero la candela sul leggio e se ne andassero. Alla fine rimasero solo due violini a suonare al buio. Il principe capì l'antifona e il giorno dopo diede a tutti le ferie!",
+          "createdAt": 1794414921280,
+          "updatedAt": 1794414921280
+        },
+        {
+          "id": "ae925068-55aa-4492-8487-e818526fc6bc",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Da dove deriva il nome del leggendario duo francese di musica elettronica \"Daft Punk\"?",
+          "options": [
+            "Da un errore di battitura sul loro primo contratto",
+            "Era il nome di un videogioco arcade anni '80",
+            "Da una recensione molto offensiva su una rivista",
+            "Da un insulto che il professore di musica diceva loro a scuola"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "Prima di mettere i caschi da robot, Thomas Bangalter e Guy-Manuel facevano parte di una band rock chiamata Darlin'. Un critico della famosa rivista musicale britannica Melody Maker recensì malissimo una loro canzone, definendola \"un mucchio di spazzatura punk demenziale\" (in inglese: a daft punky thrash). Invece di offendersi, i due trovarono l'insulto geniale e lo usarono per fondare il loro nuovo progetto elettronico.",
+          "createdAt": 1794415107255,
+          "updatedAt": 1794415107255
+        },
+        {
+          "id": "012d7e86-542d-484e-9f0c-72021de2f6ef",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Qual è l'unica band (o artista) musicale nella storia ad aver suonato in tutti e 7 i continenti del pianeta, arrivando a esibirsi persino in Antartide?",
+          "options": [
+            "Rolling Stones",
+            "Metallica",
+            "Coldplay",
+            "Taylor Swift"
+          ],
+          "correctOptionIndex": 1,
+          "hostNote": "Nel 2013, i giganti del metal hanno tenuto un concerto intitolato \"Freeze 'Em All\" nella base scientifica Carlini in Antartide. Per non disturbare la fauna locale (tra cui i pinguini) e non causare valanghe, il concerto è stato suonato rigorosamente \"in cuffia\": il pubblico, composto da 120 scienziati e vincitori di un concorso, ascoltava la musica in cuffie wireless, mentre i Metallica suonavano in una cupola trasparente.",
+          "createdAt": 1794415194392,
+          "updatedAt": 1794415194392
+        },
+        {
+          "id": "7ad3af25-6301-41b3-9e6c-e9b7dc1a4e45",
+          "type": "MULTIPLE_CHOICE",
+          "text": "l rapper Kid Yugi è famoso per unire l'immaginario crudo della strada a citazioni letterarie coltissime. Da quale capolavoro della letteratura ha preso ispirazione il suo secondo progetto?",
+          "options": [
+            "Guerra e Pace di Tolstoj",
+            "Delitto e Castigo di Dostoevskij",
+            "Le anime morte di Gogol",
+            "Il Maestro e Margherita di Bulgakov"
+          ],
+          "correctOptionIndex": 3,
+          "hostNote": "L'album è un concept album che analizza le diverse forme del Male sull'individuo e sulla collettività, rifacendosi al modo in cui Bulgakov esplora il diavolo (Woland) e l'ipocrisia umana nella Mosca degli anni Trenta.",
+          "createdAt": 1794415564568,
+          "updatedAt": 1794415616660
+        },
+        {
+          "id": "0dc922c6-14fe-4afc-9791-063e0f18f83a",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nel 2015, quale leggendario gruppo rap ha registrato un album segreto, stampandone una sola e unica copia fisica al mondo (venduta poi per 2 milioni di dollari), con un contratto legale che ne vieta l'ascolto pubblico fino all'anno 2103?",
+          "options": [
+            "Wu-Tang Clan",
+            "Migos",
+            "Outkast",
+            "N.W.A"
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "'album si intitola Once Upon a Time in Shaolin. È stato tenuto nascosto nel caveau di un hotel in Marocco e poi venduto all'asta. L'idea del gruppo era trattare la musica come un'opera d'arte rinascimentale unica e irriproducibile. Chi lo ha comprato può ascoltarlo nel salotto di casa sua, ma non può assolutamente pubblicarlo su internet o venderlo commercialmente per ben 88 anni!",
+          "createdAt": 1794415777935,
+          "updatedAt": 1794415777935
+        },
+        {
+          "id": "f59985df-638f-4727-963c-991833a5f33c",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nel dicembre 2019, il mondo della musica è stato sconvolto dalla morte improvvisa della stella dell'emo-rap Juice WRLD. Il cantante è crollato a soli 21 anni per un attacco epilettico fatale appena atterrato con il suo jet privato all'aeroporto Midway di Chicago. Qual è stata la vera e tragica causa scatenante di questo fatale malore?",
+          "options": [
+            "È stato accoltellato da un fan squilibrato che si era intrufolato sulla pista di atterraggio",
+            "Ha bevuto per errore una bottiglia di metadone scambiandola per il suo sciroppo per la tosse",
+            "Ha ingerito un'intera manciata di pillole per nasconderle alla polizia che stava per perquisire il suo aereo",
+            "Ha avuto un collasso a causa di un drastico calo di pressione in cabina mentre dormiva"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "Mentre il jet stava volando verso Chicago, il pilota aveva avvisato le autorità a terra che la crew del rapper stava viaggiando armata. Appena atterrati, l'FBI e la polizia stavano aspettando il jet sulla pista per un'ispezione federale. Preso dal panico per evitare l'arresto, Juice WRLD ha letteralmente ingoiato diverse pillole di Percocet (un potente oppiaceo) tutte in una volta per nasconderle agli agenti, andando in overdose fatale sul colpo. A bordo, i federali trovarono poi nascosti 30 chili di marijuana, 6 flaconi di sciroppo alla codeina e 3 pistole.",
+          "createdAt": 1794847342830,
+          "updatedAt": 1794847342830
+        },
+        {
+          "id": "cc94adea-cb6a-4ee0-8027-4caaac219cb7",
+          "type": "VOICE_ONLY",
+          "text": "Indovina la Canzone...",
+          "options": [],
+          "correctOptionIndex": -1,
+          "createdAt": 1794505387106,
+          "updatedAt": 1794505387106
+        }
+      ]
+    },
+    {
+      "id": "dba8b3fc-e83c-4103-8c45-612d6c2d00f0",
+      "name": "Cinema&Letteratura",
+      "description": "",
+      "color": "#06B6D4",
+      "createdAt": 1794328947348,
+      "updatedAt": 1794847372765,
+      "questions": [
+        {
+          "id": "31a0674a-9c12-404f-819c-04c2e848f818",
+          "type": "MULTIPLE_CHOICE",
+          "text": "l geniale  regista Werner Herzog è noto per le sue imprese estreme. Nel 1980, per onorare una scommessa persa con un suo collega, si fece filmare mentre compiva quale di queste assurde azioni?",
+          "options": [
+            "Dipingeva di blu un'intera mandria di mucche",
+            "Si cucinava e mangiava la sua stessa scarpa",
+            "Si radeva a zero i capelli in diretta TV",
+            "Dirigeva un'orchestra completamente bendato"
+          ],
+          "correctOptionIndex": 1,
+          "hostNote": "Herzog aveva scommesso con il regista Errol Morris che se quest'ultimo fosse riuscito a finire il suo documentario, lui si sarebbe mangiato le scarpe. Morris ci riuscì, e Herzog fece bollire i suoi scarponi per 5 ore con aglio, erbe e brodo, mangiandoli (tranne la suola in gomma) davanti al pubblico!",
+          "createdAt": 1794416121814,
+          "updatedAt": 1794416121814
+        },
+        {
+          "id": "5276bd2f-c050-407c-bcfd-8678c9073feb",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Quando Ben Affleck e Robert Pattinson sono stati scelti per interpretare il Cavaliere Oscuro, hanno ricevuto un fondamentale  consiglio tecnico dal loro predecessore Christian Bale. Quale?",
+          "options": [
+            "\"Assicurati di avere una cerniera per poter fare la pipì da solo",
+            "\"Usa un collirio speciale per non accecarti col Bat-Segnale\"",
+            "\"Mettiti tanto borotalco per riuscire a infilare la tuta\"",
+            "\"Evita di mangiare aglio prima di baciare Catwoman\""
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "Curiosità da raccontare: Bale ha raccontato che in Batman Begins la sua tuta era un pezzo unico senza aperture strategiche. Ogni volta che doveva andare in bagno aveva bisogno dell'aiuto di tre assistenti per svestirsi. Quindi il suo primo consiglio ai nuovi Batman è sempre stato: \"Ragazzi, fatevi mettere una zip, altrimenti non vi sentirete per niente dei supereroi\".",
+          "createdAt": 1794416209576,
+          "updatedAt": 1794416209576
+        },
+        {
+          "id": "a4f70bdb-80d6-4785-9155-07528bd182fb",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Kubrick era un perfezionista assoluto, ma a volte sfiorava la paranoia. Terrorizzato da un evento improbabile che avrebbe rovinato l'uscita del suo capolavoro \"2001: Odissea nello spazio\", cosa cercò disperatamente di fare?",
+          "options": [
+            "Vietare l'ingresso al cinema agli scienziati veri",
+            "Costruire un vero bunker anti-atomico per nascondere la pellicola",
+            "Mandare in orbita una copia del copione con la NASA",
+            "Stipulare una polizza assicurativa contro la scoperta degli alieni"
+          ],
+          "correctOptionIndex": 3,
+          "hostNote": "Kubrick temeva che, mentre girava il film, la NASA potesse scoprire per davvero la vita extraterrestre su Marte o altrove, rendendo la trama del suo film scientificamente obsoleta o ridicola. Contattò i famosi assicuratori Lloyd's di Londra per assicurare il film contro questa eventualità, ma loro rifiutarono perché il rischio era letteralmente \"incalcolabile\"!",
+          "createdAt": 1794416441680,
+          "updatedAt": 1794416441680
+        },
+        {
+          "id": "f87d957a-57a5-4474-a1f8-92648c0f3e5e",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nel geniale \"Smetto quando voglio\" (2014), la banda di ricercatori precari pesta i piedi al temibile e raffinato boss della criminalità romana, detto \"Murena\" (interpretato da Neri Marcorè). Murena non li uccide subito perché in fondo li capisce: anche lui, prima di darsi al crimine, aveva una laurea difficilissima che in Italia non gli dava lavoro. In cosa è laureato lo spietato boss?",
+          "options": [
+            "In Lettere Antiche (specializzato in sanscrito)",
+            "In Filosofia del Rinascimento",
+            "In Ingegneria Navale",
+            "In Medicina Legale"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "Quando Pietro Zinni (Edoardo Leo) cerca di usare termini tecnici pensando di avere davanti un criminale ignorante, Murena lo gela dicendogli: \"Io so' ingegnere navale... che te credi, che in Italia non c'è lavoro solo pe' i neurobiologi?\".",
+          "createdAt": 1794416954604,
+          "updatedAt": 1794416954604
+        },
+        {
+          "id": "afc29f18-9817-4d07-ad29-b0b096051494",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Ormai la battuta \"Te lo meriti Alberto Sordi!\" è entrata nella storia del nostro cinema. Ma se siete dei veri fan di Moretti, dovreste ricordare l'esatto motivo per cui Michele Apicella esplode e urla questa frase a un perfetto sconosciuto in un bar. Cosa aveva appena detto quell'uomo per farlo infuriare così tanto?",
+          "options": [
+            "Aveva ordinato un cappuccino mangiando contemporaneamente un tramezzino al prosciutto",
+            "Aveva fatto un discorso qualunquista dicendo: \"Ma che me frega, rossi o neri, sono tutti uguali!\"",
+            "Si era lamentato dicendo: \"Ormai al cinema fanno solo film noiosi senza una trama\"",
+            "Aveva confessato ad alta voce di non aver mai votato in vita sua"
+          ],
+          "correctOptionIndex": 1,
+          "hostNote": "Moretti odiava ferocemente il qualunquismo e l'atteggiamento dell'italiano medio che non prende mai posizione per pura convenienza. L'attacco diretto ad Alberto Sordi (che all'epoca fece molto scalpore) era dovuto proprio al fatto che l'attore romano, nei suoi celebri film di commedia, aveva spesso dipinto e \"giustificato\" proprio quel tipo di italiano un po' vigliacco, cinico e trasformista.",
+          "createdAt": 1794417120581,
+          "updatedAt": 1794417120581
+        },
+        {
+          "id": "d474cec3-d6ac-4961-9be4-5d8aee66816e",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Tutti conoscono Sherlock Holmes, ma solo chi ha letto davvero l'opera di Arthur Conan Doyle sa che l'investigatore, noto per la sua freddezza e misoginia, è stato battuto in astuzia e superato intellettualmente da una sola, brillante donna. Da quel momento, Holmes si riferirà a lei chiamandola per sempre, con enorme rispetto, \"La Donna\". Chi è?",
+          "options": [
+            "Irene Adler",
+            "Mary Morstan",
+            "Enola Mainer",
+            "Mrs. Hudson"
+          ],
+          "correctOptionIndex": 0,
+          "hostNote": "ompare in un solo racconto (\"Uno scandalo in Boemia\"), ma il suo impatto è gigantesco. Riuscirà a sfuggire a Holmes portando con sé le prove compromettenti che lui doveva recuperare, lasciandogli solo una sua fotografia che Sherlock conserverà per sempre.",
+          "createdAt": 1794846338790,
+          "updatedAt": 1794846338790
+        },
+        {
+          "id": "9c492225-d9b9-4812-a32f-cfe8866ca5cf",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Eugenio Montale è celebre per aver espresso la sofferenza e la fatica dell'esistenza umana nel suo famoso concetto del \"Male di vivere\". Nella sua poesia più iconica (\"Spesso il male di vivere ho incontrato\"), il poeta rappresenta questo dolore attraverso tre immagini precise di cose naturali che soffrono. Quale di queste quattro immagini NON è presente nella poesia?",
+          "options": [
+            "Il cavallo stramazzato",
+            "L'albero fulminato dalla tempesta",
+            "Il rivo strozzato che gorgoglia",
+            "La foglia riarsa"
+          ],
+          "correctOptionIndex": 1,
+          "hostNote": "Montale descrive il male di vivere con tre elementi che incontrano un ostacolo insormontabile o la fine: un ruscello (rivo) a cui viene bloccato il corso, una foglia secca (riarsa) che si accartoccia e un cavallo crollato a terra (stramazzato) per la fatica.",
+          "createdAt": 1794846475599,
+          "updatedAt": 1794846475599
+        },
+        {
+          "id": "99f7fefa-3e18-477e-b58c-f50a27777501",
+          "type": "VOICE_ONLY",
+          "text": "Indovina il film...",
+          "options": [],
+          "correctOptionIndex": -1,
+          "createdAt": 1794505401091,
+          "updatedAt": 1794505401091
+        },
+        {
+          "id": "9f7afefb-4c54-4598-8b21-c6c5e299d43d",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Ne \"I Promessi Sposi\", quando Renzo arriva a Milano, finisce in mezzo ai famosi tumulti per il pane (la sommossa di San Martino). Essendosi fatto notare troppo per le sue piazze, viene scambiato per uno dei capi della rivolta. Per sfuggire alla polizia e all'oste dell'Osteria della Luna Piena, usa un falso nome. Quale?",
+          "options": [
+            "Fermo Spolino",
+            "Lorenzo Pescatori",
+            "Antonio Rivolta",
+            "Ambrogio Tremotino"
+          ],
+          "correctOptionIndex": 2,
+          "hostNote": "Quando l'oste, che è un informatore della polizia, gli chiede le sue generalità per registrarlo (con lo stratagemma della \"grida\"), Renzo rifiuta di dare il suo vero nome e s'inventa sul momento di chiamarsi Antonio Rivolta. \"Fermo Spolino\", invece, è un tranello per chi ha studiato: \"Fermo\" era il nome originario di Renzo nella primissima stesura del romanzo (",
+          "createdAt": 1794846654554,
+          "updatedAt": 1794846654554
+        },
+        {
+          "id": "4485606d-bf41-417a-8bdb-f8c451528697",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nel capolavoro \"Il giovane Holden\" (The Catcher in the Rye), il sedicenne e disilluso protagonista Holden Caulfield scappa dal collegio e vaga per New York in piena crisi esistenziale. Durante le sue corse in taxi per la città, fa ripetutamente ai tassisti una domanda specifica e un po' bizzarra, che è diventata il simbolo stesso dell'intero romanzo. Cosa chiede?",
+          "options": [
+            "Se i semafori si sentono inutili quando non c'è traffico di notte",
+            "Dove vanno a finire le anatre di Central Park quando il laghetto gela d'inverno",
+            "Se il tassametro continua a scorrere anche quando il mondo si ferma",
+            "Quanti ombrelli vengono dimenticati ogni anno sui sedili posteriori"
+          ],
+          "correctOptionIndex": 1,
+          "hostNote": "Holden è ossessionato da questo pensiero. Chiede ai tassisti (Horwitz è uno dei più celebri con cui ne discute) se le anatre volino via da sole o se arrivi un camion dello zoo a prenderle. È una metafora potentissima della sua paura del cambiamento, della crescita e del dover lasciare il \"nido\" sicuro dell'infanzia, chiedendosi chi si prenderà cura di lui quando le cose si faranno fredde e difficili.",
+          "createdAt": 1794846742412,
+          "updatedAt": 1794846742412
+        },
+        {
+          "id": "c7fbde78-1c6b-43d2-ba01-3c72e2e04eb7",
+          "type": "MULTIPLE_CHOICE",
+          "text": "Nella letteratura dell'Antica Roma, poche opere sono grottesche, satiriche e moderne come il \"Satyricon\" (attribuito a Petronio). Il fulcro dell'opera superstite è la lunghissima descrizione di una cena, uno sfoggio di ricchezza mostruoso, pacchiano e di cattivo gusto. Chi è il padrone di casa, un ex schiavo liberato (liberto) diventato immensamente ricco, divenuto nei secoli il simbolo universale del \"cafone arricchito\"?",
+          "options": [
+            "Lucullo",
+            "Mechiatrone",
+            "Crasso",
+            "Trimalchione"
+          ],
+          "correctOptionIndex": 3,
+          "hostNote": "La spiegazione: La \"Cena di Trimalcione\" (o Trimalchio) è un capolavoro di comicità e satira sociale. Presenta portate assurde, come cinghiali ripieni di tordi vivi che volano via quando vengono tagliati, il tutto per ostentare soldi senza avere un briciolo di cultura.",
+          "createdAt": 1794846887626,
+          "updatedAt": 1794846887626
+        }
+      ]
+    },
+    {
+      "id": "71515e21-852b-4d35-a418-d50bd51c2290",
+      "name": "3$",
+      "description": "Freestyle",
+      "color": "#6366F1",
+      "createdAt": 1794329004790,
+      "updatedAt": 1794329038252,
+      "questions": []
+    },
+    {
+      "id": "9fcc19a2-3771-4470-b1e9-3d93e4e99f4a",
+      "name": "Silhouette",
+      "description": "",
+      "color": "#06B6D4",
+      "createdAt": 1794329018434,
+      "updatedAt": 1794583749171,
+      "questions": [
+        {
+          "id": "74eacf3b-441e-4c0a-8878-a443aa99ff0e",
+          "type": "VOICE_ONLY",
+          "text": "Indovina la silhouette...",
+          "options": [],
+          "correctOptionIndex": -1,
+          "createdAt": 1794583749171,
+          "updatedAt": 1794583749171
+        }
+      ]
+    }
+  ]
+}
